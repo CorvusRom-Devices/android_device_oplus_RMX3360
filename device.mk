@@ -48,6 +48,9 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     init.recovery.target.rc
 
+# Haptics
+OPLUS_DEVICE_USES_QTI_VIBRATOR := true
+
 # NFC
 OPLUS_DEVICE_USES_ST21_NFC := true
 
