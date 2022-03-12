@@ -48,6 +48,9 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     init.recovery.target.rc
 
+# NFC
+OPLUS_DEVICE_USES_ST21_NFC := true
+
 # Soong namespaces
 PRODUCT_SOONG_NAMESPACES += \
     $(LOCAL_PATH)
