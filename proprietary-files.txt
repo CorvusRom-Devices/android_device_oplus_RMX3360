@@ -141,6 +141,30 @@ vendor/firmware/yupik_ipa_fws.b04
 vendor/firmware/yupik_ipa_fws.elf
 vendor/firmware/yupik_ipa_fws.mdt
 
+# Firmware (VPU)
+vendor/firmware/vpu20_1v.b01
+vendor/firmware/vpu20_1v.b02
+vendor/firmware/vpu20_1v.b03
+vendor/firmware/vpu20_1v.b04
+vendor/firmware/vpu20_1v.b05
+vendor/firmware/vpu20_1v.b06
+vendor/firmware/vpu20_1v.b07
+vendor/firmware/vpu20_1v.b08
+vendor/firmware/vpu20_1v.b09
+vendor/firmware/vpu20_1v.b10
+vendor/firmware/vpu20_1v.b11
+vendor/firmware/vpu20_1v.b12
+vendor/firmware/vpu20_1v.b13
+vendor/firmware/vpu20_1v.b14
+vendor/firmware/vpu20_1v.b15
+vendor/firmware/vpu20_1v.b16
+vendor/firmware/vpu20_1v.b17
+vendor/firmware/vpu20_1v.b18
+vendor/firmware/vpu20_1v.b19
+vendor/firmware/vpu20_1v.mbn
+vendor/firmware/vpu20_1v.mdt
+vendor/firmware/vpu20_1v_unsigned.mbn
+
 # Iris
 odm/etc/inparm/iris5/inParm1.txt
 odm/etc/inparm/iris5/inParm10.txt
