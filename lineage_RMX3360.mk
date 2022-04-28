@@ -18,25 +18,21 @@
 $(call inherit-product, $(SRC_TARGET_DIR)/product/core_64_bit.mk)
 $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 
-# Inherit from lemonadep device
-$(call inherit-product, device/oneplus/lemonadep/device.mk)
+# Inherit from RMX3360 device
+$(call inherit-product, device/oplus/RMX3360/device.mk)
 
 # Inherit some common Lineage stuff.
 $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 
-PRODUCT_NAME := lineage_lemonadep
-PRODUCT_DEVICE := lemonadep
-PRODUCT_MANUFACTURER := OnePlus
-PRODUCT_BRAND := OnePlus
-PRODUCT_MODEL := LE2123
+PRODUCT_NAME := lineage_RMX3360
+PRODUCT_DEVICE := RMX3360
+PRODUCT_MANUFACTURER := realme
+PRODUCT_BRAND := realme
+PRODUCT_MODEL := RMX3360
 
-PRODUCT_SYSTEM_NAME := OnePlus9Pro_EEA
-PRODUCT_SYSTEM_DEVICE := OnePlus9Pro
+PRODUCT_SYSTEM_NAME := RMX3360
+PRODUCT_SYSTEM_DEVICE := RE54ABL1
 
-PRODUCT_GMS_CLIENTID_BASE := android-oneplus
+PRODUCT_GMS_CLIENTID_BASE := android-oppo
 
-PRODUCT_BUILD_PROP_OVERRIDES += \
-    TARGET_DEVICE=OnePlus9Pro \
-    TARGET_PRODUCT=OnePlus9Pro_EEA
-
-BUILD_FINGERPRINT := OnePlus/OnePlus9Pro_EEA/OnePlus9Pro:12/SKQ1.210216.001/R.202203102003:user/release-keys
+BUILD_FINGERPRINT := realme/RMX3360/RE54ABL1:12/RKQ1.210503.001/R.202202112205:user/release-keys

@@ -1,6 +1,6 @@
 # All proprietary files from this list, unless pinned and noted otherwise,
-# are from OnePlus 9 Pro (LE2123_11.C.47). OTAs to extract from can be found here:
-# https://www.oneplus.com/global/support/softwareupgrade/details?code=PM1617074857015
+# are from Realme GT Master Edition (RMX3360_C.05).
+# OTA links are pulled from the device and not found in realme support sites.
 
 # ACDB
 odm/etc/acdbdata/Audio_Parameter_Version.txt
