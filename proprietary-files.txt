@@ -132,6 +132,15 @@ odm/vendor/firmware/ancap64.b06
 odm/vendor/firmware/ancap64.b07
 odm/vendor/firmware/ancap64.mdt
 
+# Firmwre (IPA)
+vendor/firmware/yupik_ipa_fws.b00
+vendor/firmware/yupik_ipa_fws.b01
+vendor/firmware/yupik_ipa_fws.b02
+vendor/firmware/yupik_ipa_fws.b03
+vendor/firmware/yupik_ipa_fws.b04
+vendor/firmware/yupik_ipa_fws.elf
+vendor/firmware/yupik_ipa_fws.mdt
+
 # Iris
 odm/etc/inparm/iris5/inParm1.txt
 odm/etc/inparm/iris5/inParm10.txt
