@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 ## All proprietary files from this list, unless pinned and noted otherwise,
 ## are from OnePlus 9 (LE2115_11_C.47). OTAs to extract from can be found here:
 ## https://www.oneplus.com/global/support/softwareupgrade/details?code=PM1617074715494
+=======
+# All proprietary files from this list, unless pinned and noted otherwise,
+# are from Realme GT Master Edition (RMX3360_C.05).
+# OTA links are pulled from the device and not found in realme support sites.
+>>>>>>> 54089a0 (RMX3360: Rebrand to GT Master Edition)
 
 # ACDBs
 odm/etc/acdbdata/Audio_Parameter_Version.txt
