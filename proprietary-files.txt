@@ -2,8 +2,7 @@
 # are from Realme GT Master Edition (RMX3360_C.05).
 # OTA links are pulled from the device and not found in realme support sites.
 
-# ACDBs
-odm/etc/acdbdata/Audio_Parameter_Version.txt
+# ACDB
 odm/etc/acdbdata/Bluetooth_cal.acdb
 odm/etc/acdbdata/General_cal.acdb
 odm/etc/acdbdata/Global_cal.acdb
