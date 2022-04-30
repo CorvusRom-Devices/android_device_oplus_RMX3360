@@ -159,9 +159,8 @@ odm/etc/lvimfs_params/LVIMFS_Parameter_ID8_MIC_Unprocess.txt
 odm/etc/lvimfs_params/LVIMFS_Parameter_ID9_MIC_Voice.txt
 
 # Bluetooth Firmware
-odm/etc/bt/hpnv10.bin
-odm/etc/bt/hpnv10_1.bin
-odm/etc/bt/second_rf.conf
+odm/etc/bt/msnv11.bin
+odm/etc/bt/msnv11_ch1.bin
 
 # Camera (HAL)
 odm/bin/hw/vendor.oplus.hardware.orms.ormsHalService@1.0-service
@@ -188,10 +187,6 @@ odm/etc/camera/config/imx615
 odm/etc/camera/config/oplus_camera_algo_switch_config
 odm/etc/camera/config/oplus_camera_aps_config
 odm/etc/camera/config/oplus_camera_config
-<<<<<<< HEAD
-odm/etc/camera/calibrationOutput_uw.bin
-odm/etc/camera/calibrationOutput_uw_686.bin
-=======
 odm/etc/camera/config/ov02b
 odm/etc/camera/config/ov64b
 odm/etc/camera/config/video_beauty_default_config
@@ -598,7 +593,6 @@ odm/etc/camera/tonemap/tonemap_lut_6
 odm/etc/camera/tonemap/tonemap_lut_7
 odm/etc/camera/tonemap/tonemap_lut_8
 odm/etc/camera/tonemap/tonemap_lut_9
->>>>>>> a53ec58 (RMX3360: Update camera blob list)
 odm/etc/camera/CameraHWConfiguration.config
 odm/etc/camera/anc_cl_kernel.cache
 odm/etc/camera/anc_cl_kernel_ins.cache
@@ -615,17 +609,6 @@ odm/etc/camera/model_fdc.data
 odm/etc/camera/mtStereoParams.bin
 odm/etc/camera/mwStereoParams.bin
 odm/etc/camera/settings_fdc.txt
-<<<<<<< HEAD
-odm/lib64/camera/com.qti.sensor.imx689.lemonade.so
-odm/lib64/camera/com.qti.sensormodule.lemonade.semco_imx689.bin
-odm/lib64/camera/com.qti.sensormodule.lemonade.shine_gc02m1b.bin
-odm/lib64/camera/com.qti.sensormodule.lemonade.sunny_imx766.bin
-odm/lib64/camera/com.qti.sensormodule.lemonade.sunny_imx766_MP.bin
-odm/lib64/camera/com.qti.sensormodule.lemonade.sunny_imx766_ak7375c.bin
-odm/lib64/camera/com.qti.sensormodule.lemonade.truly_imx471.bin
-odm/lib64/camera/com.qti.tuned.semco_imx689.bin
-odm/lib64/camera/com.qti.tuned.shine_gc02m1b.bin
-=======
 odm/etc/camera/wide.bin
 odm/lib/libDeVIS.so
 odm/lib64/camera/components/com.oplus.node.preview.so
@@ -952,7 +935,6 @@ vendor/lib64/vendor.qti.hardware.camera.postproc@1.0-service-impl.so
 # Camera firmware
 vendor/firmware/CAMERA_ICP.elf
 vendor/firmware/CAMERA_ICP_170.elf
->>>>>>> a53ec58 (RMX3360: Update camera blob list)
 
 # Firmware (Fingerprint)
 odm/vendor/firmware/ancap64.b00
